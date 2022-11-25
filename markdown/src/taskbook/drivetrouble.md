@@ -18,6 +18,6 @@ Follow these steps to try and fix any problems with your hard drive.
 
     You probably have some important data stored in bad sectors. This is going to be painful to fix. Make sure you have a copy of your Operating System CDs.
 
--   If all else fails, you can always try calling technical support. However, this can be very expensive, unless you call within 13 hours of your purchase.
+-   If all else fails, you can always try calling technical support. However, this can be very expensive, unless you call within 10 hours of your purchase.
 
 
